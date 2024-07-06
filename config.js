@@ -9,13 +9,13 @@ import moment from 'moment-timezone';
 
 global.owner = [
   ['201110156619', ' ⭕ＭＯＳＴＡＦＡ❌', true],
-  ['201024480189', '⚠️BØSS⚠️', 
+  ['201129003230', '⚠️BØSS⚠️', 
 true],
 ];
 
 global.xaxa = 'kaneki'
 global.suittag = ['201110156619'];
-global.prems = ['201024480189'];
+global.prems = ['201129003230'];
 
 global.packname = '𝑺𝛩𝐾𝑈𝑁𝐴 - 𝑉𝐸𝑁𝛩𝑀 ';
 global.author = '★𝑺𝛩𝐾𝑈𝑁𝐴 - 𝑉𝐸𝑁𝛩𝑀 𝐵𝛩𝑇★';
